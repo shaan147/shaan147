@@ -21,7 +21,7 @@
 <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </h2>
 <p>You can connect with me:</p>
-<p align="left">
+<p>
 <a href="https://www.linkedin.com/in/shaanemustafa146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shaan E Mustafa" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shaanemustafaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ShaaneMustafa147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="simplified learner" height="30" width="40" /></a>
