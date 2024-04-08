@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaan</h1>
-<h3 align="center">A Full Stack Blockchain & Web Developer</h3>
+<h3 align="center">A Full Stack Web Developer</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaan147&show_icons=true&locale=en&layout=compact" alt="shaan147" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaan147&show_icons=true&locale=en&theme=radical" alt="shaan147" /></p>
+
 
 
 <h3 align="left">Connect with me:</h3>
