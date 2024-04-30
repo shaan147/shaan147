@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaan</h1>
-<h3 align="center">A Full Stack Web Developer</h3>
+<h3 align="center">A Full Stack Web Developer and Blockchain Developer</h3>
 
 
 
