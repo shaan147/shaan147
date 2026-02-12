@@ -14,11 +14,10 @@ I'm a **Full-Stack Developer** with **2.5+ years** of professional experience sp
 - 🔭 **Currently working on**: AI-powered restaurant management systems and prop trading platforms
 - 🚀 **Recent projects**: QR-based ordering systems, real-time chat with OpenAI integration, trading platform with MT5/TradeLocker
 - 💼 **Expertise**: Backend architecture, RESTful APIs, payment gateway integrations, database optimization
-- 🌱 **Tech stack**: React TypeScript, Node.js, Express.js, PostgreSQL, MongoDB, AWS (EC2, RDS)
+- 🌱 **Tech stack**: React TypeScript, Node.js, Python, Express.js, Deno, PostgreSQL, MongoDB, AWS (EC2, RDS)
 - 💡 **Specialized in**: Stripe & payment integrations, AI API integration (OpenAI, Google Places, Foursquare), real-time systems
 - 🌍 **Work style**: 100% remote, experienced with distributed teams across multiple time zones
-- 📫 **Reach me**: shaanemustafa8@gmail.com
-
+- 📫 **Reach me**: info@codewithshaan.com
 ---
 
 ### 🛠️ Tech Stack
