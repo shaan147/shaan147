@@ -18,6 +18,7 @@ I'm a **Full-Stack Developer** with **2.5+ years** of professional experience sp
 - 💡 **Specialized in**: Stripe & payment integrations, AI API integration (OpenAI, Google Places, Foursquare), real-time systems
 - 🌍 **Work style**: 100% remote, experienced with distributed teams across multiple time zones
 - 📫 **Reach me**: info@codewithshaan.com
+
 ---
 
 ### 🛠️ Tech Stack
@@ -50,11 +51,19 @@ I'm a **Full-Stack Developer** with **2.5+ years** of professional experience sp
 
 ---
 
-### 📊 GitHub Stats
+### 💼 Professional Experience
+```
+🚀 Lead Developer @ Canari                    (Mar 2025 - Jan 2026)
+   • AI-powered restaurant management system
+   • React TypeScript, Node.js, PostgreSQL, AWS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaan147&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+💻 Full Stack Developer @ Syndicate Funded    (Jan 2024 - Feb 2025)
+   • Prop trading platform with MT5/TradeLocker
+   • MERN stack, Stripe, Persona KYC
+
+⚙️  Backend Developer @ Quantomex             (Jan 2023 - Dec 2023)
+   • Node.js, Express, MongoDB APIs
+```
 
 ---
 
